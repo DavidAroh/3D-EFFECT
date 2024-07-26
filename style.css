@@ -48,3 +48,9 @@ body{
     transform: scale(1.5) translateZ(50px);
     color: #fff;
 }
+
+@media screen and (max-width: 678px){
+    .sci{
+        flex-direction: column;
+    }
+}
